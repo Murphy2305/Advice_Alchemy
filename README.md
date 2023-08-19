@@ -1,3 +1,3 @@
 # Advice_Alchemy
 
-[Link](https://advice-alchemy.netlify.app/)
+[Live Site](https://advice-alchemy.netlify.app/)
